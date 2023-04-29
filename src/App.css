@@ -1,0 +1,16 @@
+body{
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.card{
+  float: left;
+}
+
+.hi{
+  position: absolute
+}
+
+.hello{
+  position: fixed
+}
